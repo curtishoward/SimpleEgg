@@ -1,3 +1,6 @@
+# To build, run:
+#    python setup.py bdist_egg
+
 from setuptools import setup
 setup(
   name="SimpleEgg",
